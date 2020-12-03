@@ -16,4 +16,3 @@ function deleteFromDriverByKey(obj, key, value){
 
   return obj;
 }
-
